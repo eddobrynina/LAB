@@ -1,0 +1,11 @@
+LaunchTargetManager/configs/Game.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Game_rock.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Graphik.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Home.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Game_rock.exe,org.eclipse.launchbar.core.descriptorType.default\:Graphik.exe,org.eclipse.launchbar.core.descriptorType.default\:Game.exe,org.eclipse.launchbar.core.descriptorType.default\:Home.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Home.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Home.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

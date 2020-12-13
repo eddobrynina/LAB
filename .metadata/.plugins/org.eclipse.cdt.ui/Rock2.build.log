@@ -1,0 +1,7 @@
+17:16:16 **** Rebuild of configuration Debug for project Rock2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Rock.o" "..\\src\\Rock.cpp" 
+g++ -o Rock2.exe "src\\Rock.o" 
+
+17:16:23 Build Finished. 0 errors, 0 warnings. (took 7s.223ms)
+
